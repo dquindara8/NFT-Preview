@@ -1,0 +1,122 @@
+html {
+  box-sizing: border-box; /*  If you use any padding, it doesn't affect the width of the element.*/
+  font-family: ;
+}
+
+body {
+  background: hsl(217, 54%, 11%);
+  font-size: 18px;
+  font-family: "Outfit", sans-serif;
+}
+
+.container {
+  width: 260px;
+  height: 470px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 10px;
+}
+
+img {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6px;
+}
+
+.para1 {
+  position: absolute;
+  top: 260px;
+  left: 20px;
+  font-weight: 600;
+  color: white;
+}
+
+.para2 {
+  position: absolute;
+  top: 300px;
+  left: 20px;
+  font-weight: 300;
+  font-size: 12px;
+  color: hsl(215, 51%, 70%);
+  line-height: 1.6;
+}
+
+.image2 {
+  position: absolute;
+  top: 360px;
+  left: -190px;
+  color: hsl(178, 100%, 50%);
+  background: url(black.png);
+  filter: brightness(0.9) invert(0.9) sepia(0.5) hue-rotate(100deg)
+    saturate(900%);
+}
+
+.para3 {
+  position: absolute;
+  top: 351px;
+  left: 35px;
+  font-size: 12px;
+  font-weight: 600;
+  color: hsl(178, 100%, 50%);
+}
+
+.image3 {
+  position: absolute;
+  top: 363px;
+  left: 92px;
+  color: hsl(178, 100%, 50%);
+  border: 0px solid hsl(215, 51%, 70%);
+  border-radius: 50%;
+  background: url(black.png);
+  filter: brightness(0.7) invert(0.9) sepia(0.5) hue-rotate(500deg)
+    saturate(200%);
+}
+
+.para4 {
+  position: absolute;
+  top: 351px;
+  left: 180px;
+  font-size: 12px;
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+}
+
+hr {
+  width: 220px;
+  position: absolute;
+  top: 390px;
+  left: 20px;
+  color: hsl(215, 51%, 70%);
+  opacity: 0.2;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+
+.image4 {
+  position: absolute;
+  top: 415px;
+  left: -170px;
+  border: 1.5px solid white;
+  border-radius: 50%;
+  background-color: rgb(115, 114, 114);
+}
+
+.para5 {
+  position: absolute;
+  top: 410px;
+  left: 60px;
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
+  font-size: 12px;
+}
+
+span {
+  color: white;
+}
