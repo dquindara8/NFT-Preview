@@ -12,7 +12,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-![NFT Preview Card](C:\Users\HP\Desktop.png)
+(![NFT Preview Image](https://user-images.githubusercontent.com/108308166/193873071-4ff72e58-5c65-44a2-bc62-5e21f79c079d.png)
+)
 
 ### Links
 
