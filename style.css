@@ -1,5 +1,6 @@
 html {
-  box-sizing: border-box;      /*  If you use any padding, it doesn't affect the width of the element.*/
+  box-sizing: border-box; /*  If you use any padding, it doesn't affect the width of the element.*/
+  font-family: ;
 }
 
 body {
